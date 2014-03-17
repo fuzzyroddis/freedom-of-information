@@ -1,0 +1,28 @@
+Dear Department of Human Services,
+
+I note that in order to deal with Medicare electronically, I am
+forced
+to sign up for an account with myGov.
+
+I am very concerned about my data and my identities being linked
+across services.
+
+I have read the Privacy Statement at:
+https://my.gov.au/mygov/content/html/privacy.html
+
+The Privacy Statement says that "You may opt out of any further use
+of
+myGov in which case you can contact Member Services directly".
+
+On the other hand, the Medicare page says that I can't login
+*except*
+by means of a myGov account. How can it be meaningful to say I can
+'opt out' if by doing so I can't reach a service provider?
+
+I am very concerned about the design of the myGov scheme and would
+like to request the report arising from the Privacy
+Impact Assessment of myGov.
+
+Thanks,
+
+Steven Roddis
